@@ -1,6 +1,6 @@
 # AI Agent Orchestration: Production Operations Playbook
 
-**Last updated: May 2026** · Maintained by [Sanjay Saini](https://agileleadershipdayindia.org) · Contributions welcome via Issues and PRs
+**Last updated: May 2026** · Maintained by [Ayush Bisht](https://www.linkedin.com/in/ayush-bisht-92abb1315/)· Contributions welcome via Issues and PRs
 
 A reference repository for engineering leads and enterprise architects who need to move multi-agent AI systems from pilot to production. Compiled from 10 technical analyses covering the full deployment lifecycle: orchestration architecture, failure modes, platform selection, kill-switches, NIST compliance, CFO-grade KPIs, and agile integration.
 
